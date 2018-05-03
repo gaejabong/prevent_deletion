@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon version="1.0">
+    <title xml:lang="ko">댓글이 있을 경우 글 삭제 금지</title>
+    <title xml:lang="en">Prevent deletion articles if it has comment</title>
+    <description xml:lang="ko">
+        문서에 댓글이 하나 이상 포함되어 있을 경우 글 삭제를 방지하는 애드온
+    </description>
+    <version>1.0</version>
+    <date>2019-05-01</date>
+    <author email_address="jdssem@gmail.com" link="http://jaedong.kim/">
+        <name xml:lang="ko">김재동</name>
+        <name xml:lang="en">Jaedong Kim</name>
+    </author>
+    <extra_vars />
+</addon>
